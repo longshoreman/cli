@@ -11,6 +11,7 @@
   "devDependencies": {},
   "dependencies": {
     "minimist": "^0.2.0",
-    "prompt": "^0.2.13"
+    "prompt": "^0.2.13",
+    "request": "^2.36.0"
   }
 }
