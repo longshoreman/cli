@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
+    "async": "^0.9.0",
     "minimist": "^0.2.0",
     "prompt": "^0.2.13",
     "request": "^2.36.0"
