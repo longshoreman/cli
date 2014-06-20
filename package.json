@@ -1,0 +1,16 @@
+{
+  "name": "docker-cli",
+  "version": "0.0.1",
+  "description": "Command Line Interface for docker deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "PA Parent <pa@wayfinder.co>",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "minimist": "^0.2.0",
+    "prompt": "^0.2.13"
+  }
+}
