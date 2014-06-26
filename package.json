@@ -1,13 +1,18 @@
 {
-  "name": "docker-cli",
-  "version": "0.0.1",
-  "description": "Command Line Interface for docker deploy",
+  "name": "longshoreman",
+  "version": "0.1.0",
+  "description": "Longshoreman CLI",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/longshoreman/cli"
+  },
+  "bin": "./bin/longshoreman",
   "author": "PA Parent <pa@wayfinder.co>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {},
   "dependencies": {
     "async": "^0.9.0",
