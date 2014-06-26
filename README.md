@@ -1,7 +1,6 @@
 ## Longshoreman CLI
 
-You can use the CLI to easily administer a Longshoreman cluster from the command line. The tool
-talks to the Longshoreman controller server over HTTP.
+You can use the CLI to easily administer a Longshoreman cluster from the command line. The tool talks to the Longshoreman controller server over HTTP.
 
 ## Installation
 
@@ -9,9 +8,7 @@ talks to the Longshoreman controller server over HTTP.
 
 ## Set up
 
-To use the CLI, you'll first have to initialize your Longshoreman configuration file. Run `longshoreman init`
-to create a credentials file in your home directory. If you don't yet have a controller URL or token, see
-the [quick start](https://github.com/longshoreman/longshoreman#quick-start) to get started.
+To use the CLI, you'll first have to initialize your Longshoreman configuration file. Run `longshoreman init` to create a credentials file in your home directory. If you don't yet have a controller URL or token, see the [quick start](https://github.com/longshoreman/longshoreman#quick-start) to get started.
 
 ## Usage
 
