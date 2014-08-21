@@ -1,6 +1,6 @@
 {
   "name": "longshoreman",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Longshoreman CLI",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,10 @@
     "prompt": "^0.2.13",
     "request": "^2.36.0",
     "colors": "^0.6.2",
-    "lodash": "^2.4.1"
+    "lodash": "^2.4.1",
+    "cli-table": "^0.3.0"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
   }
 }
