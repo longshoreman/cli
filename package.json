@@ -21,7 +21,8 @@
     "request": "^2.36.0",
     "colors": "^0.6.2",
     "lodash": "^2.4.1",
-    "cli-table": "^0.3.0"
+    "cli-table": "^0.3.0",
+    "moment": "^2.8.1"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
