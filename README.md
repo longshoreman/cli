@@ -29,3 +29,7 @@ envs: Displays all environmental variables for an application
 envs:set: Sets an environmental variable for an application
 envs:rm: Removes a variable from the application
 ```
+
+## License
+
+MIT
